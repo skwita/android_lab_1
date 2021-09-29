@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="button">press me!</string>
+    <string name="imgContentDescription">green thing</string>
+    <string name="textViewText">Do not press the lower button</string>
+    <string name="second_text_view_text">Not this button agian....</string>
+    <string name="button_number_two">Press me i\'m begging you!!!</string>
+    <string name="some_dude_s_pic">some dude\'s pic</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="android_logo">Android Logo</string>
+    <string name="text_sad">Oh I\'m so tired of this button</string>
+    <string name="super_button">HAHA PRESS ME NOW</string>
+</resources>
